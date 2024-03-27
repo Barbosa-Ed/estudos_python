@@ -1,2 +1,2 @@
 # estudos_python
-Alguns exercícios feitos para praticar Python
+Pasta para armazenar alguns exercícios utilizados para praticar python.
