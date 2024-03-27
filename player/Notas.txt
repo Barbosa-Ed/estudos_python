@@ -1,0 +1,2 @@
+Player de música em Python, na pasta "audios" pode-se colocar as faixas para serem tocadas (ou pode-se alterar o caminho de onde seram tocadas).
+# os nomes das músicas deverão ser separados por "-" para ser tocado.
